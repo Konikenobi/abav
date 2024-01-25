@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Frieza Force",
+		"uniqueTo": "Planet Trade Organization",
 		"replaces": "Warrior",
 		"movement": 10,
 		"strength": 90,
