@@ -11,7 +11,7 @@
 		"declaringWar": "Shall we begin this spectacle of horror?",
 		"attacked": "It’s Been So Long Since I Felt Pain. It’s Such A Strange Sensation.",
 		"defeated": "Curse it allll!",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "I Doubt I Need An Introduction, But Just In Case, I Am The Mighty Frieza... And Yes, All The Horrible Stories You’ve Heard Are True.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -29,9 +29,6 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Base #1"]
 	}
 ]
