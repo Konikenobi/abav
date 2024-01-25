@@ -16,14 +16,12 @@
 		"name": "Android",
 		"unitType": "Armored",
 		"uniqueTo": "Red Ribbon Army",
-		"replaces": "Landship",
+		"replaces": "Swordsman",
 		"movement": 5,
 		"strength": 95,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 250,
-		"requiredTech": "Radar",
-		"requiredResource": "Steel",
 		"attackSound": "phasers"
 	}
 ]
