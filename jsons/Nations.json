@@ -31,4 +31,37 @@
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Base #1"]
 	}
+		{
+		"name": "Red Ribbon Army",
+		"leaderName": "Commander Red",
+		"adjective": ["Red"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Commander Red, This is General Fandango reporting. We will start a Base somewhere in this Deserted Area to find the dragon balls, even if they are in here. Dragon Balls aside, we will destroy whatever is in the way of our goal. you may wish me luck.",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+			
+		"declaringWar": "You dare to spit on us?! Prepare for bloodshed...",
+		"attacked": "we are under fire!!.",
+		"defeated": "Mission Failed... We will get them next time.",
+		"introduction": "Hello, We are the Red Ribbon Army. If you wish for your survival, please don't try to fight and stay out of our way.",
+		
+		"neutralHello": "Private! we have a diplomatic visitor! DON'T PUT CYANIDE IN THE TEA, DAMN IT. Anyways... what are you up to?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No.","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Hurry up and speak before I lose my patience.",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["I beg your pardon?", "You gotta be fucking kidding me.",],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Yeah, you're right, this fighting is childish. we must warn you, do NOT get in the Red Ribbon's way.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Base #1"]
+	}
 ]
