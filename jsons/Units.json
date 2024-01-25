@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Frieza Force Warrior",
 		"unitType": "Ranged",
 		"uniqueTo": "Planet Trade Organization",
 		"replaces": "Warrior",
@@ -8,8 +8,22 @@
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
+		"cost": 10,
 		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Android",
+		"unitType": "Armored",
+		"uniqueTo": "Red Ribbon Army",
+		"replaces": "Landship",
+		"movement": 5,
+		"strength": 95,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 250,
+		"requiredTech": "Radar",
+		"requiredResource": "Steel",
 		"attackSound": "phasers"
 	}
 ]
