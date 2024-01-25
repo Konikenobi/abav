@@ -16,7 +16,6 @@
 		"name": "Android",
 		"unitType": "Armored",
 		"uniqueTo": "Red Ribbon Army",
-		"replaces": "Swordsman",
 		"movement": 5,
 		"strength": 95,
 		"rangedStrength": 36,
