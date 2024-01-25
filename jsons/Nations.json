@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Planet Trade Organization",
+		"leaderName": "Frieza",
+		"adjective": ["Frieza Force"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "I Doubt I Need An Introduction, But Just In Case, I Am The Mighty Frieza... And Yes, All The Horrible Stories You’ve Heard Are True.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "Shall we begin this spectacle of horror?",
+		"attacked": "It’s Been So Long Since I Felt Pain. It’s Such A Strange Sensation.",
+		"defeated": "Curse it allll!",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
@@ -21,7 +21,7 @@
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateNo": ["I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
