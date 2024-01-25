@@ -46,7 +46,7 @@
 		"defeated": "Mission Failed... We will get them next time.",
 		"introduction": "Hello, We are the Red Ribbon Army. If you wish for your survival, please don't try to fight and stay out of our way.",
 		
-		"neutralHello": "Private! we have a diplomatic visitor! DON'T PUT CYANIDE IN THE TEA, DAMN IT. Anyways... what are you up to?",
+		"neutralHello": "Private! we have a diplomatic visitor! DON'T PUT CYANIDE IN THE TEA, DAMN IT!!! Anyways... what are you up to?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No.","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -63,5 +63,37 @@
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Base #1"]
+}
+	{
+		"name": "Saiyan Empire",
+		"leaderName": "King Vegeta",
+		"adjective": ["Saiyans"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "After the destruction of Planet Vegeta, we Saiyans have been looking for a planet that's suitable to reside in. and we found it. and I got a feeling that we have to start over... again...",
+		
+		"declaringWar": "You tread on the wrong grass, you bastard!",
+		"attacked": "Damn it, We've got to fight back!",
+		"defeated": "Well... time to find another planet...",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [0,200,0],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["HQ"]
 	}
 ]
