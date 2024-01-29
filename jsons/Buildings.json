@@ -1,20 +1,12 @@
 
 [
 	{
-		"name": "Holodeck",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Slaughterhouse",
+		"uniqueTo": "Saiyan Empire",
+		"food": 5,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+3 Food] from [Deer] tiles [in this city]",
+			"[+3 Food] from [Catttle] tiles [in this city]",
 	},
-	{
-		"name": "Breeders",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-	}
 ]
