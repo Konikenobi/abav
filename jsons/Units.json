@@ -41,13 +41,12 @@
 		"name": "Middle Class Saiyan",
 		"unitType": "Sword",
 		"uniqueTo": "Saiyan Empire",
-		"replaces": "Warrior",
 		"movement": 5,
 		"strength": 45,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 250,
-		"promotions": ["Drill I"],
+		"promotions": ["Drill II"],
 		"attackSound": "phasers"
 	}
 	{
@@ -58,5 +57,17 @@
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
+	}
+	{
+		"name": "High Class Saiyan",
+		"unitType": "Sword",
+		"uniqueTo": "Saiyan Empire",
+		"movement": 5,
+		"strength": 55,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 250,
+		"promotions": ["Drill III"],
+		"attackSound": "phasers"
 	}
 ]
