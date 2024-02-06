@@ -38,8 +38,8 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Commander Red, This is General Fandango reporting. We will start a Base somewhere in this Deserted Area to find the dragon balls, even if they are in here. Dragon Balls aside, we will destroy whatever is in the way of our goal. you may wish me luck.",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Commander Red, This is General Fandango reporting. We will start a Base somewhere in this Deserted Area to find the dragon balls, even if they are in here. Dragon Balls aside, we will destroy whatever is in the way of our goal.",
+		"startIntroPart2": "you may wish me luck.",
 			
 		"declaringWar": "You dare to spit on us?! Prepare for bloodshed...",
 		"attacked": "we are under fire!!.",
