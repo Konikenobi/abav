@@ -2,8 +2,10 @@
 [
 	{
 		"name": "Slaughterhouse",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"uniqueTo": "Saiyan Empire",
 		"food": 5,
+		"turnsToBuild": 7,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["[+3 Food] from [Deer] tiles [in this city]",
